@@ -4,6 +4,8 @@
 
 ![Metrics](https://metrics.lecoq.io/vasin-peach?template=classic&base.indepth=false&config.timezone=Asia%2FBangkok)
 
+![Habits](https://github.com/vasin-peach/vasin-peach/blob/main/metrics.plugin.habits.facts.svg?raw=true)
+
 
 <h3>Tech I Used</h3>
 <p>
@@ -30,61 +32,16 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Public Projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Start</b></td>
-      <td><b>Issues</b></td>
-      <td><b>Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-	  <tr>
-      <td><a href="https://github.com/itkmitl-tcas/itkmitl-tcas"><b>IT Kmitl Tcas</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/itkmitl-tcas/itkmitl-tcas?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/itkmitl-tcas/itkmitl-tcas?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/itkmitl-tcas/itkmitl-tcas?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/itkmitl-tcas/itkmitl-tcas?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vasin-peach/linkedin-profile-scraper"><b>Linkedin Profile Scraper</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/vasin-peach/linkedin-profile-scraper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/vasin-peach/linkedin-profile-scraper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/vasin-peach/linkedin-profile-scraper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vasin-peach/linkedin-profile-scraper?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vasin-peach/kmitl-itcamp14"><b>IT Kmitl ITCamp 14</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/vasin-peach/kmitl-itcamp14?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/vasin-peach/kmitl-itcamp14?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/vasin-peach/kmitl-itcamp14?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vasin-peach/kmitl-itcamp14?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vasin-peach/sn-curtain-front"><b>S&M Curtain Online Shop</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/vasin-peach/sn-curtain-front?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/vasin-peach/sn-curtain-front?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/vasin-peach/sn-curtain-front?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vasin-peach/sn-curtain-front?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vasin-peach/LongCode"><b>Long Code</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/vasin-peach/LongCode?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/vasin-peach/LongCode?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/vasin-peach/LongCode?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vasin-peach/LongCode?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+
+
 
 <h3>Where to find me</h3>
-
 <p>
 <a href="https://github.com/vasin-peach" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vasin-sermsampan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="#" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<img alt="Stars" src="https://github.com/vasin-peach/vasin-peach/metrics.plugin.activity.svg"/>
+<h3>Recent Activity</h3>
+
+![Activity](https://github.com/vasin-peach/vasin-peach/blob/main/metrics.plugin.activity.svg?raw=true)
