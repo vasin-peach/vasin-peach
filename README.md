@@ -2,12 +2,7 @@
 
 <p>I'm Peach <b>Full-Stack Engineer</b> from Thailand, Work in all fields of entries web application processes</p>
 
-![Metrics](https://metrics.lecoq.io/vasin-peach?template=classic&base.indepth=false&config.timezone=Asia%2FBangkok)
 
-![Habits](https://github.com/vasin-peach/vasin-peach/blob/main/metrics.plugin.habits.facts.svg?raw=true)
-
-
-<h3>Tech I Used</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -34,6 +29,9 @@
 
 
 
+![Metrics](https://metrics.lecoq.io/vasin-peach?template=classic&base.indepth=false&config.timezone=Asia%2FBangkok)
+
+![Habits](https://github.com/vasin-peach/vasin-peach/blob/main/metrics.plugin.habits.facts.svg?raw=true)
 
 <h3>Where to find me</h3>
 <p>
@@ -42,6 +40,3 @@
 <a href="#" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<h3>Recent Activity</h3>
-
-![Activity](https://github.com/vasin-peach/vasin-peach/blob/main/metrics.plugin.activity.svg?raw=true)
