@@ -31,7 +31,7 @@
 
 
 
-![Metrics](https://metrics.lecoq.io/vasin-peach?template=classic&base.indepth=false&config.timezone=Asia%2FBangkok)
+![Metrics](https://github.com/vasin-peach/vasin-peach/blob/main/github-metrics.svg?raw=true)
 
 
 ![Habits](https://github.com/vasin-peach/vasin-peach/blob/main/metrics.plugin.habits.facts.svg?raw=true)
