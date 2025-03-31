@@ -1,15 +1,15 @@
 <h1>Peaches</h1>
 <p>I'm Peach <b>Full-Stack Engineer</b> from Thailand, Work in all fields of entries web application processes</p>
+
+<p align=center>
 <img src="https://github.com/user-attachments/assets/1fc5219d-2050-46f2-96d8-73964ed07846"/>
-
-
-<hr/>
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nextjs,vue,nuxtjs,nestjs,redux,sass,tailwind,prisma,graphql,postgresql,sequelize,firebase,docker,nginx,githubactions,cloudflare,aws,gcp,vite,sentry,ipfs,ps,pr&perline=20" />
-  </a>
 </p>
 
+<p align="center" >
+   <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nextjs,vue,nuxtjs,nestjs,redux,sass,tailwind,prisma,graphql,postgresql,sequelize,firebase,docker,nginx,githubactions,cloudflare,aws,gcp,vite,sentry,ipfs,ps,pr&perline=20" />
+</p>
+
+<hr/>
 <h3>My latest work</h3>
 
 - [Dakok](https://dakok.net/) - Dakok homepage
