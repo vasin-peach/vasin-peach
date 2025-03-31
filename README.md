@@ -2,7 +2,7 @@
 <p>I'm Peach <b>Full-Stack Engineer</b> from Thailand, Work in all fields of entries web application processes</p>
 
 <p align=center>
-<img src="https://github.com/user-attachments/assets/1fc5219d-2050-46f2-96d8-73964ed07846"/>
+<img src="https://github.com/user-attachments/assets/fb8f8090-e482-448d-9e04-9e1d3a2cb60d"/>
 </p>
 
 <p align="center" >
